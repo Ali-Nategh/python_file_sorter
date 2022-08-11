@@ -2,7 +2,7 @@
 
 A project created to sort my cluttered messy folders lol
 
-"""
+```
 This is a File sorter that sorts image and video files by extentions.
 
 You can use it in a command line like this:
@@ -12,4 +12,4 @@ If the file matches the written extentions, then it looks up the file creation a
 
 You can change this a bit and use it for your own sorting purposes if you want lol.
 Have fun!
-"""
+```
